@@ -54,9 +54,13 @@ The project includes the following key analyses:
 
 ## 📂 Project Structure
 📦 covid-19-india-analysis
+
 ┣ 📂 data
+
 ┣ 📂 notebooks
+
 ┣ 📄 README.md
+
 ┗ 📄 requirements.txt
 
 ---
