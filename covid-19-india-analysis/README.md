@@ -64,6 +64,16 @@ Recovery rate analysis by state
 Recovery vs death comparison (visualized)
 
 📂 Project Structure
+ 
+📦 covid-19-india-analysis
+
+┣ 📂 data
+
+┣ 📂 notebooks
+
+┣ 📄 README.md
+
+┗📄 requirements.txt
 
 
 📈 Key Insights
