@@ -62,9 +62,13 @@ This project focuses on performing Exploratory Data Analysis (EDA) on the Google
 ## 📁 Project Structure
 📦 Google-Playstore-Analysis
 ┣ 📂 data
+
 ┃ ┗ googleplaystore.csv
+
 ┣ 📓 googleplaystore.ipynb
+
 ┣ 📄 README.md
+
 ┗ 📄 requirements.txt
 
 ---
